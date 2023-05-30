@@ -1,5 +1,10 @@
 # flapybird con flutter
-Este proyecto contiene un clon del famosos juego flappy bird hecho con flutter
+Este proyecto contiene un clon del famosos juego flappy bird hecho con flutter.
+Proyecto realizado por: 
+- Nombre: Johan Yamid Duarte Segura 
+- Codigo estudiantil: 20202578136
+- Institucion educativa: Universidad Distrital Francisco Jose de Caldas Facultad Tecnologica 
+- Carrera: Tecnologia en Sistematizacion de Datos   
 
 ## Getting Started
 
