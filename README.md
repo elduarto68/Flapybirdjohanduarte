@@ -1,6 +1,5 @@
-# flutter_application_1
-
-A new Flutter project.
+# flapybird con flutter
+Este proyecto contiene un clon del famosos juego flappy bird hecho con flutter
 
 ## Getting Started
 
